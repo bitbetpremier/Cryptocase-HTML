@@ -671,6 +671,7 @@ button:focus {
 	height: 54px;
 	line-height: 54px;
 	margin-left: 10px;
+	margin-top: 10px;
 	padding: 0 25px;
 	position: relative;
 	text-transform: uppercase;
@@ -689,6 +690,7 @@ button:focus {
 	line-height: 38px;
 	margin-left: -20px;
 	margin-right: 13px;
+	margin-top: 10px;
 	padding-left: 2px;
 	position:relative;
 	text-align: center;
@@ -746,6 +748,7 @@ button:focus {
 	font-size: 24px;
 	line-height: 24px;
 	margin-right: 10px;
+	margin-top: 10px;
 	vertical-align: middle;
 }
 .btn.active.focus, 
@@ -855,12 +858,14 @@ button:focus {
 	font-size: 30px;
 	line-height: 24px;
 	margin-left: 5px;
+	margin-top: 10px;
 	padding-top: 4px;
 	vertical-align: middle;
 }
 .btn i.fa {
 	font-size: 16px;
 	margin-left: 0;
+	margin-top: 10px;
 	margin-right: 10px;
 	margin-top: -2px;
 	padding: 0;
@@ -972,6 +977,7 @@ button.btn-white {
 }
 .btn + .btn:last-child {
 	margin-left: 10px;
+	margin-top: 10px;
 }
 .angle_top {
 	border-right: 100vw solid rgba(0, 0, 0, 0);
