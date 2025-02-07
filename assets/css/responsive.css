@@ -547,18 +547,37 @@ header.nav-fixed {
 	padding: 0 0 20px 50px;
 	position: relative;
 }
+.single_roadmap2 {
+	padding: 0 0 20px 50px;
+	position: relative;
+}
 .roadmap_list .col-lg:nth-child(2n+1) .single_roadmap {
+	padding: 0 0 20px 50px;
+	position: relative;
+}
+.roadmap_list .col-lg:nth-child(2n+1) .single_roadmap2 {
 	padding: 0 0 20px 50px;
 	position: relative;
 }
 .single_roadmap::after {
 	content: normal;
 }
+.single_roadmap2::after {
+	content: normal;
+}
 .single_roadmap h6 {
 	position: static;
 	top: auto;
 }
+.single_roadmap2 h6 {
+	position: static;
+	top: auto;
+}
 .single_roadmap .roadmap_icon {
+	margin: 0;
+	top: 10px;
+}
+.single_roadmap2 .roadmap_icon {
 	margin: 0;
 	top: 10px;
 }
